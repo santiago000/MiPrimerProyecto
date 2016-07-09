@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+   "Celular"
+    <dimen name="TBienvenidom">54sp</dimen>
+    <dimen name="TBotonm">30sp</dimen>
+    "Tablet"
+    <dimen name="TBienvenidotab">84sp</dimen>
+    <dimen name="TBotontab">60sp</dimen>
+    "Android Tv"
+    <dimen name="TBienvenidotele">110sp</dimen>
+    <dimen name="TBotontele">90sp</dimen>
+</resources>
